@@ -1,0 +1,22 @@
+# Site settings
+title: CGPSC Exam Mentor
+description: >-
+  By Suraj Kaushik (MCQ Master) | SCSA - Indian Overseas Bank. 
+  Expert guidance and study material for CGPSC aspirants.
+
+# Theme settings
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Layout settings
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+
+# Google Analytics या social links (Optional)
+twitter_username: 
+github_username: your-github-username
